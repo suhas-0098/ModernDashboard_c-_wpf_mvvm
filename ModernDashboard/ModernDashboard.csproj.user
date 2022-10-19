@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="DataTemplates.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\DesktopView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\DocumentView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\DownloadView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\HomeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MovieView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MusicView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PCView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PictureView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\StartupView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TrashView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
